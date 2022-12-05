@@ -2,7 +2,7 @@
   "name": "devportfolio-template",
   "version": "1.2.2",
   "description": "",
-  "main": "../../../../Downloads/drewl919.github.io-142808f65c814bf91a8639a3e5a251c78338a84d/js/scripts.js",
+  "main": "js/scripts.js",
   "scripts": {
     "watch": "gulp watch"
   },
